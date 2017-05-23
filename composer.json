@@ -1,0 +1,9 @@
+{
+    "require": {
+        "geoip/geoip": "~1.16"
+    },
+
+    "autoload": {
+        "classmap": ["models/", "controllers/"]
+    }
+}
